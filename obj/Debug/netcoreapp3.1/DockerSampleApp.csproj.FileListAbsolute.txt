@@ -1,0 +1,9 @@
+G:\Srushti\Kanini\Specialization\DockerSampleApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Srushti\Kanini\Specialization\DockerSampleApp\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Srushti\Kanini\Specialization\DockerSampleApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Srushti\Kanini\Specialization\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.csprojAssemblyReference.cache
+G:\Srushti\Kanini\Specialization\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.AssemblyInfoInputs.cache
+G:\Srushti\Kanini\Specialization\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.AssemblyInfo.cs
+G:\Srushti\Kanini\Specialization\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.RazorTargetAssemblyInfo.cache
+G:\Srushti\Kanini\Specialization\DockerSampleApp\obj\Debug\netcoreapp3.1\staticwebassets\DockerSampleApp.StaticWebAssets.Manifest.cache
+G:\Srushti\Kanini\Specialization\DockerSampleApp\obj\Debug\netcoreapp3.1\staticwebassets\DockerSampleApp.StaticWebAssets.xml
